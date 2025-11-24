@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+<channel>
+<title>Informativo Condomínio</title>
+<link>https://github.com/mayaracunha-dev/midia-condominio</link>
+<description>Feed Automático via n8n</description>
+
+    <item>
+        <title>Informe do Lixo</title>
+        <media:content url="https://mayaracunha-dev.github.io/midia-condominio/media/informe-do-lixo-1763998085455-83.pdf" type="image/jpeg" duration="10" />
+        <guid isPermaLink="false">https://mayaracunha-dev.github.io/midia-condominio/media/informe-do-lixo-1763998085455-83.pdf</guid>
+    </item>
+    <item>
+        <title>Manutenção na piscina</title>
+        <media:content url="https://mayaracunha-dev.github.io/midia-condominio/media/manutencao-na-piscina-1763998085456-963.png" type="image/png" duration="10" />
+        <guid isPermaLink="false">https://mayaracunha-dev.github.io/midia-condominio/media/manutencao-na-piscina-1763998085456-963.png</guid>
+    </item>
+    <item>
+        <title>Informe do Lixo</title>
+        <media:content url="https://mayaracunha-dev.github.io/midia-condominio/media/informe-do-lixo-1763998085455-83.pdf" type="image/jpeg" duration="10" />
+        <guid isPermaLink="false">https://mayaracunha-dev.github.io/midia-condominio/media/informe-do-lixo-1763998085455-83.pdf</guid>
+    </item>
+    <item>
+        <title>Manutenção na piscina</title>
+        <media:content url="https://mayaracunha-dev.github.io/midia-condominio/media/manutencao-na-piscina-1763998085456-963.png" type="image/png" duration="10" />
+        <guid isPermaLink="false">https://mayaracunha-dev.github.io/midia-condominio/media/manutencao-na-piscina-1763998085456-963.png</guid>
+    </item>
+</channel>
+</rss>
